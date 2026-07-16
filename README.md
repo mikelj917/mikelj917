@@ -29,7 +29,7 @@ Constantly improving through real-world projects, architectural decisions, and p
 <!-- Tecnologias -->
 <div align="center">
 
-## Technologies
+## Technologie
 
 #### Languages / Libs / FrameWorks
 
